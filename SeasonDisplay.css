@@ -1,0 +1,36 @@
+.icon-left{
+    position: absolute;
+    top:10px;
+    left: 10px;
+    
+}
+
+.icon-right{
+    position: absolute;
+    bottom:80px;
+    right: 10px;
+
+
+}
+.season-display-s{
+
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    height:90vh;
+    background-color: orange;
+    color:red;
+}
+
+.season-display-w{
+
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    height:90vh;
+    background-color:rgba(100, 100, 255,10 );
+    color:purple;
+}
+.text-color{
+    color:black;
+}
